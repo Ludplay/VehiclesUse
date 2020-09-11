@@ -4,7 +4,7 @@ Aplicação em NodeJS que permite controlar a utilização dos automóveis de um
 • Utilização de um automóvel por um motorista e regras vinculadas.   
 
 
-NodeJS application which allows control vehicles use in a company. Includes:   
+NodeJS application which allows to control vehicles use in a company. Includes:   
 • Vehicle CRUD.   
 • Driver CRUD.   
 • Use of a vehicle by a driver and rules around it.
